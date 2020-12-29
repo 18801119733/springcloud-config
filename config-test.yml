@@ -7,3 +7,4 @@ spring:
         git:
           uri: https://github.com/imrhelloworld/config-repo # 配置文件所在仓库地址
           test: test
+          sxf: sxf
