@@ -9,4 +9,4 @@ spring:
     cc: sxf
    
 config:
-  info: test
+  info: test1
